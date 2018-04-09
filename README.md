@@ -29,6 +29,10 @@
 **git fetch** : recupere le code mais ne le fusionne pas  
 **git pull** : (fetch+merge) recupere le code et le fusionne  
 
+**Ajouter un mot cliquable** : [GitHub](http://github.com)**Ajouter un mot cliquable** : [GitHub](http://github.com)
+
+
+
 Plus d'informations sur :  
 http://github.com  
 https://drive.google.com/drive/folders/1jvYv2jqrEQjIjrN3CRkMx1LmNi_amWCn  
